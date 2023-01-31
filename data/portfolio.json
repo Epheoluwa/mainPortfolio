@@ -77,23 +77,38 @@
     "services": [
         {
             "id": "1",
-            "title": "Art Direction",
+            "title": "REACT",
             "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
         },
         {
             "id": "2",
-            "title": "Branding",
+            "title": "PHP",
             "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
         },
         {
             "id": "3",
-            "title": "Web Design",
+            "title": "VUE",
             "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
         },
         {
             "id": "4",
-            "title": "3D Design",
+            "title": "REACT-NATIVE",
             "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        },
+        {
+            "id": "6250bf94-271b-4fb1-a3cd-e2e9dbd178ec",
+            "title": "NODE",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "id": "f78d4dea-07dd-41c4-9470-94ccadab795e",
+            "title": "SQL",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "id": "b34d2f07-3579-4f48-88c8-c96e61740cb4",
+            "title": "GraphQL",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
         }
     ],
     "aboutpara": "I’m a creative and result-oriented Full-Stack Developer with experience in developing and implementing interactive, user-friendly, and feature-rich software platforms. Strong ability in paying attention to details, problem-solving and precision at all times which are some of my core values and strength. \nHardworking and energetic individual with excellent communication, goal-getter, team player, and leadership skills.",

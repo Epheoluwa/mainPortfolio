@@ -11,6 +11,7 @@ import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
 
+
 // Local Data
 import data from "../data/portfolio.json";
 
@@ -118,13 +119,13 @@ export default function Home() {
         </div>
 
         <div className="mt-40 laptop:mt-30 p-2 laptop:p-0">
-          <h1 className="tablet:m-10 text-5xl text-center text-bold">Services</h1>
-          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
+          <h1 className="tablet:m-10 text-5xl text-center text-bold">SKILLS</h1>
+          <div className="mt-5 ml-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-6 gap-2">
             {data.services.map((service, index) => (
               <ServiceCard
                 key={index}
                 name={service.title}
-                description={service.description}
+                
               />
             ))}
           </div>
@@ -137,7 +138,8 @@ export default function Home() {
             </Link>
           </div>
         )}
-       
+
+  
         <Footer />
       </div>
     </div>
